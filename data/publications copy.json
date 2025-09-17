@@ -43,6 +43,11 @@
       {
         "text": "CSCW'25",
         "class": "venue-tag"
+      },
+      {
+        "text": "arXiv",
+        "class": "preprint-tag",
+        "link": "https://arxiv.org/abs/2508.15148"
       }
     ]
   },
