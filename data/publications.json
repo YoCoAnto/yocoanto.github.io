@@ -13,6 +13,11 @@
         "class": "venue-tag"
       },
       {
+        "text": "DOI",
+        "class": "code-tag",
+        "link": "https://doi.org/10.1145/3746059.3747725"
+      },
+      {
         "text": "arXiv",
         "class": "preprint-tag",
         "link": "https://arxiv.org/abs/2507.10044"
@@ -33,6 +38,11 @@
         "class": "venue-tag"
       },
       {
+        "text": "DOI",
+        "class": "code-tag",
+        "link": "https://doi.org/10.1109/TVCG.2025.3633887"
+      },
+      {
         "text": "arXiv",
         "class": "preprint-tag",
         "link": "https://arxiv.org/abs/2507.17209"
@@ -51,6 +61,11 @@
       {
         "text": "CSCW'25",
         "class": "venue-tag"
+      },
+      {
+        "text": "DOI",
+        "class": "code-tag",
+        "link": "https://doi.org/10.1145/3757502"
       },
       {
         "text": "arXiv",
